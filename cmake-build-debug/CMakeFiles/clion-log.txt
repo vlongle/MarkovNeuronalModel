@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/longle/Desktop/seasons/summer2019/research/aug/analytical method/start over/MarkovNeuronalModel"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/longle/Desktop/seasons/summer2019/research/aug/analytical method/start over/MarkovNeuronalModel/cmake-build-debug
